@@ -55,6 +55,10 @@ To add your own questions:
   - This typically indicates a system performance issue
   - Try closing other applications while running the quiz
 
-## Support
+## 👨‍💻 Developed By
 
-For questions or support, please contact: astechnical112@gmail.com
+**Mohammad Amir Shoaib**  
+💻 BCA Student | Front-End Web Developer  
+📧 astechnical112@gmail.com  
+🌐 [GitHub: @shoaibxbwf](https://github.com/shoaibxbwf)
+PLS SUPPORT GIVE IT A STAR⭐⭐⭐⭐⭐
